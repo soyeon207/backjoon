@@ -15,5 +15,6 @@
 | [10172](https://www.acmicpc.net/problem/10172) | 개 | `구현` | [GIT](https://github.com/soyeon207/backjoon/tree/master/10172) | [BLOG](https://blog.naver.com/qkrthdus207/222421561330)
 | [10718](https://www.acmicpc.net/problem/10718) | We love kriii | `구현` | [GIT](https://github.com/soyeon207/backjoon/tree/master/10718) | [BLOG](https://blog.naver.com/qkrthdus207/222343835720)
 | [10869](https://www.acmicpc.net/problem/10869) | 사칙연산 | `사칙연산` | [GIT](https://github.com/soyeon207/backjoon/tree/master/10869) | [BLOG](https://blog.naver.com/qkrthdus207/222427292916)
+| [14681](https://www.acmicpc.net/problem/14681) | 사분면 고르기 | 구현` | [GIT](https://github.com/soyeon207/backjoon/tree/master/10869) | [BLOG](https://blog.naver.com/qkrthdus207/222542292074)
 
 
